@@ -20,7 +20,7 @@ JDBC对MySQL数据库存储过程的调用 (输入输出参数的设置)
 </br>
 https://blog.csdn.net/gaohuanjie/article/details/34422903
 
-</br>
+</br></br>
 CREATE DEFINER=`root`@`localhost` PROCEDURE `SelectAEmptyasinOut`( OUT today VARCHAR(1000) )
 BEGIN
 
