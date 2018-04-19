@@ -30,3 +30,5 @@ UPDATE  `inventoryloadercreator` SET  `zhendianAsin` =  "searching" WHERE  `exte
 
 
 END
+
+语句定界符 //
